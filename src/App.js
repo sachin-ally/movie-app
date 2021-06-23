@@ -36,6 +36,7 @@ class Movies extends Component {
   }
 }
 
+
 const Search = ({handleChange}) => {
   const inputStyle = {
     display: "block",
